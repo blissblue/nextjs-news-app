@@ -1,0 +1,20 @@
+.contents {
+  width: 800px;
+  margin: 0 auto;
+}
+.article {
+  display: flex;
+}
+.articleLt {
+  width: 200px;
+}
+
+.articleRt {
+  margin-top: 25px;
+}
+
+.imgView {
+  width: 150px;
+  height: 150px;
+  margin: 30px;
+}
